@@ -97,5 +97,5 @@ Backend -> Frontend: Display SQL and results
 4. **Database Configuration** – Set up PostgreSQL/MySQL.
 5. **Testing & Deployment** – Deploy backend and frontend services.
 
-🚀 Let’s build this step by step!
+
 
